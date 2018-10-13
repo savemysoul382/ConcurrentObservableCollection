@@ -6,7 +6,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Windows.Threading;
 
-namespace GO.Collections
+namespace Sorteper.Collections
 {
     // All none UI threads calls are delegated to the UI thread
     // None UI threads are not allowed to subscribe to INotifyCollectionChanged
